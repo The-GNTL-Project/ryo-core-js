@@ -1,4 +1,4 @@
-# Version moded to arqma-electron needs
+# Version moded to gntl-electron needs
 
 # Ryo Core JS
 
