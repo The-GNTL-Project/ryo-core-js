@@ -39,21 +39,21 @@ export default {
     txMinConfirms: 4,
 
     // Currency symbol
-    coinSymbol: "ARQ",
+    coinSymbol: "GNTL",
 
     // OpenAlias prefix
-    openAliasPrefix: "arqma",
+    openAliasPrefix: "gntl",
 
     // Currency name
-    coinName: "ARQ",
+    coinName: "GNTL",
 
     // Payment URI Prefix
-    coinUriPrefix: "arqma:",
+    coinUriPrefix: "gntl:",
 
     // Prefix code for addresses
-    addressPrefix: 11466,
-    integratedAddressPrefix: 1141703,
-    subaddressPrefix: 26695,
+    addressPrefix: 504557,
+    integratedAddressPrefix: 1848045,
+    subaddressPrefix: 2159341,
 
     // Dust threshold in atomic units
     // 2*10^6 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
